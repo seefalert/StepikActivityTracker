@@ -1,0 +1,5 @@
+certifi==2023.5.7
+idna==3.4
+requests==2.30.0
+selenium==4.9.1
+urllib3==2.0.2
